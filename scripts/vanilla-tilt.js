@@ -1,4 +1,4 @@
 VanillaTilt.init(document.querySelector(".container"), {
     max: 15,
-    speed: 150,
+    speed: 30,
   });
